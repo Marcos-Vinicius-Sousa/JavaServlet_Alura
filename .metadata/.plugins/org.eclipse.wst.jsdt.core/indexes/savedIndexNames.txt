@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\ThinkPad\Java_Alura\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+156635042.index
+1311760027.index
+3245002288.index
+1279901364.index
+456790899.index
+2212617470.index
